@@ -1,5 +1,6 @@
 Aplicación de Clima.
 App del clima utilizando JavaScript. La aplicación mostrará datos en tiempo real del clima de una ciudad específica utilizando la API de OpenWeatherMap.
+Link a la pagina web: https://app-clima-by-ce.netlify.app/
 
 <img width="416" alt="image" src="https://github.com/ceciliaanoemii/app-clima-js/assets/88951876/a9ea92e6-44bb-4c0e-8711-0dc1acef9014">
 
